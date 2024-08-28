@@ -11,10 +11,6 @@ Click the "Copy to Clipboard" button in the extension popup.
 The extension will fetch the session storage data from the currently active tab.
 The data will be copied to your clipboard, ready to be used elsewhere.
 
-## Getting Started
-## Prerequisites
-Google Chrome browser.
-
 ## Installation
 Clone this repository or download the source code as a ZIP file.
 
