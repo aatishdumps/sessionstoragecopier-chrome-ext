@@ -17,13 +17,20 @@ Google Chrome browser.
 
 ## Installation
 Clone this repository or download the source code as a ZIP file.
+
 Open Google Chrome and navigate to chrome://extensions/.
+
 Enable "Developer mode" in the top right corner.
+
 Click "Load unpacked" and select the folder where you downloaded the extension.
+
 The extension will be loaded, and its icon will appear in the browser toolbar.
 
 ## Usage
 Click the extension icon in the Chrome toolbar.
+
 Click the "Copy to Clipboard" button in the popup.
+
 The session storage data of the active tab will be copied to your clipboard.
+
 A status message will indicate whether the operation was successful.
